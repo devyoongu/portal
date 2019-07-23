@@ -1,16 +1,13 @@
 {
-  "files": {
-    "main.css": "/portal/static/css/main.2cce8147.chunk.css",
-    "main.js": "/portal/static/js/main.96f1fe89.chunk.js",
-    "main.js.map": "/portal/static/js/main.96f1fe89.chunk.js.map",
-    "runtime~main.js": "/portal/static/js/runtime~main.3c49a560.js",
-    "runtime~main.js.map": "/portal/static/js/runtime~main.3c49a560.js.map",
-    "static/js/2.b41502e9.chunk.js": "/portal/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/portal/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/portal/index.html",
-    "precache-manifest.39d54dae9b4cf1b8b03c4f7a8c43d49d.js": "/portal/precache-manifest.39d54dae9b4cf1b8b03c4f7a8c43d49d.js",
-    "service-worker.js": "/portal/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/portal/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/portal/static/media/logo.5d5d9eef.svg"
-  }
+  "main.css": "/protal/static/css/main.950b145d.chunk.css",
+  "main.js": "/protal/static/js/main.a313ea03.chunk.js",
+  "main.js.map": "/protal/static/js/main.a313ea03.chunk.js.map",
+  "static/js/1.13d4d90e.chunk.js": "/protal/static/js/1.13d4d90e.chunk.js",
+  "static/js/1.13d4d90e.chunk.js.map": "/protal/static/js/1.13d4d90e.chunk.js.map",
+  "runtime~main.js": "/protal/static/js/runtime~main.64cc7d4f.js",
+  "runtime~main.js.map": "/protal/static/js/runtime~main.64cc7d4f.js.map",
+  "static/css/main.950b145d.chunk.css.map": "/protal/static/css/main.950b145d.chunk.css.map",
+  "index.html": "/protal/index.html",
+  "precache-manifest.a1aebfa8b2e0d9663f95b789dc34116f.js": "/protal/precache-manifest.a1aebfa8b2e0d9663f95b789dc34116f.js",
+  "service-worker.js": "/protal/service-worker.js"
 }
