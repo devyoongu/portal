@@ -1,13 +1,13 @@
 {
-  "main.css": "/protal/static/css/main.950b145d.chunk.css",
-  "main.js": "/protal/static/js/main.a313ea03.chunk.js",
-  "main.js.map": "/protal/static/js/main.a313ea03.chunk.js.map",
-  "static/js/1.13d4d90e.chunk.js": "/protal/static/js/1.13d4d90e.chunk.js",
-  "static/js/1.13d4d90e.chunk.js.map": "/protal/static/js/1.13d4d90e.chunk.js.map",
-  "runtime~main.js": "/protal/static/js/runtime~main.64cc7d4f.js",
-  "runtime~main.js.map": "/protal/static/js/runtime~main.64cc7d4f.js.map",
-  "static/css/main.950b145d.chunk.css.map": "/protal/static/css/main.950b145d.chunk.css.map",
-  "index.html": "/protal/index.html",
-  "precache-manifest.a1aebfa8b2e0d9663f95b789dc34116f.js": "/protal/precache-manifest.a1aebfa8b2e0d9663f95b789dc34116f.js",
-  "service-worker.js": "/protal/service-worker.js"
+  "main.css": "/portal/static/css/main.950b145d.chunk.css",
+  "main.js": "/portal/static/js/main.01da1a28.chunk.js",
+  "main.js.map": "/portal/static/js/main.01da1a28.chunk.js.map",
+  "static/js/1.13d4d90e.chunk.js": "/portal/static/js/1.13d4d90e.chunk.js",
+  "static/js/1.13d4d90e.chunk.js.map": "/portal/static/js/1.13d4d90e.chunk.js.map",
+  "runtime~main.js": "/portal/static/js/runtime~main.9d0029aa.js",
+  "runtime~main.js.map": "/portal/static/js/runtime~main.9d0029aa.js.map",
+  "static/css/main.950b145d.chunk.css.map": "/portal/static/css/main.950b145d.chunk.css.map",
+  "index.html": "/portal/index.html",
+  "precache-manifest.c4e1d55941c2dd8f13264d0303bcd72c.js": "/portal/precache-manifest.c4e1d55941c2dd8f13264d0303bcd72c.js",
+  "service-worker.js": "/portal/service-worker.js"
 }
