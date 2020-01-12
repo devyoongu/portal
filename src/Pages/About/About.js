@@ -9,6 +9,7 @@ export default class About extends Component {
         return (
             <div>
                 about
+                test
             </div>
         )
     }
